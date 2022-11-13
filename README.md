@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**Varkoff/Varkoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My internet name is *Varkoff*. I am a 26 years old green tea enjoyer 🍵 from France 🇫🇷.
 
-Here are some ideas to get you started:
+I am fascinated by performance, optimization and fast websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and mastering ⚛️ React.js and 💿 Remix.
+
+
+Here are some projects I've worked on :
+
+[Vinylmania](https://vinylmania.fr) is a platform where vinyle collectors give, trade and buy vinyles from other collectors.
+
+You can also check my personal blog [varkoff.fr](https://varkoff.fr)
