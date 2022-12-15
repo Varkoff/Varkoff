@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-My internet name is *Varkoff*. I am a 26 years old green tea enjoyer 🍵 from France 🇫🇷.
+I'm  *Varkoff*. From France 🇫🇷.
+
+Favorite drink while coding : green tea 🍵
 
 I am fascinated by performance, optimization and fast websites.
 
