@@ -1,19 +1,20 @@
-### Bonjour 👋
+### Creating ⚡️fast websites with 💿Remix
 
-I'm  *Virgile*. From France 🇫🇷.
+Hello 👋
+
+I'm   🇫🇷*Virgile*.
 
 Favorite drink while coding : green tea 🍵
 
-I am fascinated by performance, optimization and fast websites.
+I help developers improve and optimize their website on [Twitter](https://twitter.com/Varkoffs) and [LinkedIn](https://www.linkedin.com/in/virgile-rietsch).
 
-Currently learning and mastering ⚛️ React.js and 💿 Remix.
+I also build awesome mobile apps at [Algomax](https://algomax.fr). 
+Currently mastering 🔯 React.js and 💿 Remix.
 
-Here are some projects I've worked on :
+Here are some other projects I'm working on :
 
-I am currently working on [Algomax](https://algomax.fr) and building awesome mobile apps.
-
-I just started making a french Youtube channel. If you understand french and are interested in React and Typescript, [consider subscribing](https://www.youtube.com/@Varkoff/videos) for great content !
+If you understand french and are interested in Remix and React Optimization videos, checkout my [YouTube channel](https://www.youtube.com/@Varkoff) for great content !
 
 [Vinylmania](https://vinylmania.fr) is a platform where vinyle collectors give, trade and buy vinyles from other collectors.
 
-You can also check my personal blog [varkoff.fr](https://varkoff.fr)
+I also post articles on my blog [varkoff.fr](https://varkoff.fr)
