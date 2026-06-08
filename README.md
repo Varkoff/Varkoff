@@ -7,21 +7,29 @@ developers to ship with AI.
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
-<a href="https://algomax.fr">
-<img src="https://algomax.fr/og-homepage.png" width="100%" alt="Algomax" />
-</a>
-<br/>
-<b>Algomax</b><br/>
-Agency + training: AI agents, AI-assisted coding, and senior frontend engineering.
-</td>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <a href="https://blitzreels.com">
 <img src="https://www.blitzreels.com/og/home.png" width="100%" alt="BlitzReels" />
 </a>
 <br/>
 <b>BlitzReels</b><br/>
 AI short-form video editor that turns long videos into branded clips.
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://blitzrecorder.com">
+<img src="https://blitzrecorder.com/opengraph-image" width="100%" alt="BlitzRecorder" />
+</a>
+<br/>
+<b>BlitzRecorder</b><br/>
+Turn your iPhone into a studio camera for your Mac. Short video, studio quality.
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://algomax.fr">
+<img src="https://algomax.fr/og-homepage.png" width="100%" alt="Algomax" />
+</a>
+<br/>
+<b>Algomax</b><br/>
+Agency + training: AI agents, AI-assisted coding, and senior frontend engineering.
 </td>
 </tr>
 </table>
@@ -40,4 +48,4 @@ I also teach the **[React Router 7 Course](https://algomax.fr/formation-react-ro
 
 ## Reach me
 
-[**algomax.fr**](https://algomax.fr) - or email virgile@algomax.fr
+[**algomax.fr**](https://algomax.fr)
